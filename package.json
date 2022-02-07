@@ -4,7 +4,7 @@
   "dependencies": {
     "k6": "^0.0.0"
   },
-  "main": "script00-first-script.js",
+  "main": "tests/script00-first-script.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
