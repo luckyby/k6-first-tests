@@ -1,0 +1,16 @@
+{
+  "name": "k6-first-tests",
+  "version": "1.0.0",
+  "dependencies": {
+    "k6": "^0.0.0"
+  },
+  "main": "script00-first-script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
