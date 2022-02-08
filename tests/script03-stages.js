@@ -1,3 +1,4 @@
+// >k6 run tests/sceipt03-stages.js
 import http from 'k6/http';
 import { check, sleep } from 'k6';
 
